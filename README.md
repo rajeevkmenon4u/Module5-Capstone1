@@ -42,7 +42,7 @@ This is the first Practical Project Part of AI &amp; ML Course
 # 2. bar plot to visualize the coupon column
 ###### Analysis-Findings
   
-| coupon        | Y             | Coount  |
+| coupon        | Y             | Count  |
 | ------------- |:-------------:| -----:|
 | Bar           | 0             |  1190 |
 |               | 1             |   827 |
@@ -88,8 +88,26 @@ This is the first Practical Project Part of AI &amp; ML Course
      
 # 4. 
 ###### Analysis-Findings
+
+|  Y         | coupon        | Count  |	
+| ---------- |:-------------:| ------:|
+| 0 |	Coffee House |2001|
+|   |	 Bar	|	1190
+|   |	Restaurant(20-50) |		834
+|  |	Restaurant(<20) |		816
+|   |	Carry out & Take away	 |	633
+| 1	|	Coffee House|		1995
+|   |	 Restaurant(<20)	 |	1970
+|   |	Carry out & Take away	 |	1760
+|   |	 Bar |		827
+|   |	 Restaurant(20-50) |		658
+
+0 Bar	9.38 - Rejection
+1 Bar 6.52 - Acceptance
 ###### Graphical Representation
 ### Hypothesis 
+ So overall 6 % accepted the Bar coupons & 9% rejected Bar coupons
+ 
 # 5. 
 ###### Analysis-Findings
 ###### Graphical Representation
