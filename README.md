@@ -35,7 +35,7 @@ This is the first Practical Project Part of AI &amp; ML Course
       Y:---coupon	
       0:---0.431567
       1:---0.568433
-      
+### Hypothesis      
     Based on the analysis we can see that 57 % accepted and 43% rejected
 
 ###### Graphical Representation
@@ -59,19 +59,40 @@ This is the first Practical Project Part of AI &amp; ML Course
 ![image](https://github.com/user-attachments/assets/a8ec9a5f-24ba-4950-a884-ebc1b8680e02)
 ![image](https://github.com/user-attachments/assets/f95ac9a5-b627-4c6a-ab54-d624f40a4a0b)
 
-Maximum acceptance is for "coffehouse" and "Resturant<20"
-3rd place if "Carry out & Takeaway"
-For CoffesHouse the Rejection rate is also high 
+### Hypothesis 
+  1. Maximum acceptance is for "coffehouse" and "Resturant<20"
+  2. 3rd place if "Carry out & Takeaway"
+  3. For CoffesHouse the Rejection rate is also high 
 
-# 3. 
+# 3. Use a histogram to visualize the temperature column.
 ###### Analysis-Findings
+  Of the overall coupon data of 12K, Temp 80 contibuties to 6.5k of the data, 4K data for Temp55 and remainik 2k Data to Temp30
+     Temperature	
+      30	0.531088
+      55	0.536719
+      80	0.600337
+
 ###### Graphical Representation
+![image](https://github.com/user-attachments/assets/1f332d0f-d7f1-400a-846f-8ff63cae3b55)
+![image](https://github.com/user-attachments/assets/571bbbdd-930a-47d8-8e3e-ae6d861d1230)
+![image](https://github.com/user-attachments/assets/29ff00a9-dad1-4244-b10d-17501ed2af3d)
+### Hypothesis 
+  1. Top 3 acceptance of coupons cateogry ( All temp 80)
+      1. Coffee house
+      2. Restaurant(<20)
+      3. Carry out & Take away "Carry out & Takeaway"
+  2. Top 3 Rejection of coupons cateogry
+      1. Coffee house - Temp 80
+      2. Restaurant(<20)  - Temp 55
+      3. Bar - Temp 55
+     
 # 4. 
 ###### Analysis-Findings
 ###### Graphical Representation
+### Hypothesis 
 # 5. 
 ###### Analysis-Findings
 ###### Graphical Representation
-
+### Hypothesis 
 
 ## Results / Observation
