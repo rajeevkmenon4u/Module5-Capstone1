@@ -56,6 +56,12 @@ This is the first Practical Project Part of AI &amp; ML Course
 |  	 |0      |   816|
 
 ###### Graphical Representation
+![image](https://github.com/user-attachments/assets/a8ec9a5f-24ba-4950-a884-ebc1b8680e02)
+![image](https://github.com/user-attachments/assets/f95ac9a5-b627-4c6a-ab54-d624f40a4a0b)
+
+Maximum acceptance is for "coffehouse" and "Resturant<20"
+3rd place if "Carry out & Takeaway"
+For CoffesHouse the Rejection rate is also high 
 
 # 3. 
 ###### Analysis-Findings
