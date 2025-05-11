@@ -17,7 +17,8 @@ This is the first Practical Project Part of AI &amp; ML Course
      + RestaurantLessThan20:---130
      + Bar:---107
    ###### Graphical Representation
-    ![image](https://github.com/user-attachments/assets/8775386f-a448-4b86-a5d4-d1038259f171)
+   ![image](https://github.com/user-attachments/assets/07787ac4-a175-4cd6-bf93-1e90bad8b1c1)
+    
    #### Results / steps for Missing data
        Column Car has the maximum missing data as it is not used anywhere in the analysis we are ignoring the data
        Rest of the columns has the same ratio of missing data, hence it will not impact our analysis
@@ -37,8 +38,6 @@ This is the first Practical Project Part of AI &amp; ML Course
       1:---0.568433
 ### Hypothesis      
     Based on the analysis we can see that 57 % accepted and 43% rejected
-
-###### Graphical Representation
 # 2. bar plot to visualize the coupon column
 ###### Analysis-Findings
   
@@ -86,7 +85,7 @@ This is the first Practical Project Part of AI &amp; ML Course
       2. Restaurant(<20)  - Temp 55
       3. Bar - Temp 55
      
-# 4. 
+# 4. Investigating the Bar Coupons
 ###### Analysis-Findings
 
 |  Y         | coupon        | Count  |	
@@ -104,13 +103,26 @@ This is the first Practical Project Part of AI &amp; ML Course
 
 0 Bar	9.38 - Rejection
 1 Bar 6.52 - Acceptance
-###### Graphical Representation
 ### Hypothesis 
  So overall 6 % accepted the Bar coupons & 9% rejected Bar coupons
  
 # 5. Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more.
 ###### Analysis-Findings
+| coupon     | Bar        | Count  |	 Mean  |
+| ---------- |:----------:| ------:| ------:|
+| Bar |	1~3 | 397| 0.647355|
+| Bar |	4~8 | 150| 0.780000|
+| Bar |	gt8	| 49| 0.734694|
+| Bar |	less1 | 570| 0.443860|
+| Bar |	never | 830| 0.187952|
 ###### Graphical Representation
-### Hypothesis 
+![image](https://github.com/user-attachments/assets/edbe4c56-465d-4c44-b347-6a93af77ebd4)
 
+### Hypothesis 
+  The acceptance rate is more when compared to passengers who went to Bar less than 3 times or lesser. it is around 64%.
+  The acceptance rate is 78% to the passengers who when 4-8 times but the count is 150 which is less than half to the count of passengers who went to bar 1~3 times
+  The acceptance rate is 73% when they went more than 8 times but the count is very less on 50.
+# 5. Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others. Is there a difference?
+###### Analysis-Findings
+  
 ## Results / Observation
