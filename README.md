@@ -108,7 +108,7 @@ This is the first Practical Project Part of AI &amp; ML Course
 ### Hypothesis 
  So overall 6 % accepted the Bar coupons & 9% rejected Bar coupons
  
-# 5. 
+# 5. Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more.
 ###### Analysis-Findings
 ###### Graphical Representation
 ### Hypothesis 
