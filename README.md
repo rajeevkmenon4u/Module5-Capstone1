@@ -1,6 +1,6 @@
 # Module5-Capstone1(Will the Customer Accept the Coupon?)
 This is the first Practical Project Part of AI &amp; ML Course
-# Link to the Project ()
+####### Link to the Project ()
 ## Brief summary of the data provided
   Imagine driving through town and a coupon is delivered to your cell phone for a restaurant near where you are driving. Would you accept that coupon and take a short detour to the restaurant? Would you accept the 
   coupon but use it on a subsequent trip? Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaurant? What about a coffee house? Would you accept a bar coupon with a minor 
@@ -124,5 +124,54 @@ This is the first Practical Project Part of AI &amp; ML Course
   The acceptance rate is 73% when they went more than 8 times but the count is very less on 50.
 # 5. Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others. Is there a difference?
 ###### Analysis-Findings
+![image](https://github.com/user-attachments/assets/9bca9750-d132-4253-b32c-2a35c451ff87)
+
+###### Graphical Representation
+![image](https://github.com/user-attachments/assets/af5694bf-b664-41a3-9e0c-1a942b0bca40)
+![image](https://github.com/user-attachments/assets/dfa47b38-3f74-4f2e-8bd3-5e151b0c17c0)
+
+### Hypothesis 
+  1. Age 50 PLus has maximum count of 1050 and 45% acceptance when compared to 21 years age group of count 849 and 55%
+  2. People of the Age of 21 went to Bar 1`3 more times when compared to any other age category
+  3. Age of 21 people went to BAR "less 1 " compared to any other group
+
+# 6. Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
+###### Analysis-Findings
+  ![image](https://github.com/user-attachments/assets/ea0cc811-98d2-461e-8b47-cc5ac0b878e0)
+
+###### Graphical Representation
+  ![image](https://github.com/user-attachments/assets/5e719207-1ce0-4025-9126-76c6216ae87b)
+  ![image](https://github.com/user-attachments/assets/a802e57c-75f0-4f7e-abcf-82cae296b40c)
+  ![image](https://github.com/user-attachments/assets/8a35cd8c-eaec-4817-91b0-24625154b936)
+
+### Hypothesis 
+  1. Based on the data we can see the people who are unemplyeed and who are alone goes to a Bar 1-3 times with a acceptance rate of 62%
+  2. Based on the data we can see the people who are unemplyeed and who are with frimnds goes to a Bar 4-8 times with a acceptance rate of 61%
+  3. Based on the data we can see the people who are unemplyeed and who are with frimnds goes to a Bar 1-3 times with a acceptance rate of 85%
+  4. People who are working in managemnet also has acceptnace rate of 56% & 62% even if they are alone or with frinnds . they go 1-3 & 4-8
+  5. Top 10 Jobs that go bar more often are Unemployed , Student, Computer & Mathematical, Management, Sales & Related, Office & Administrative Support	, Business & Financial	, Education&Training&Library
+  6. Passengers traveling alone goes to the bar more often
+  7. what we find is passenger who are Alone and with occupation "unemployed" goes to the bar (190)
   
+# 6. Compare the acceptance rates between those drivers who:
+     go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
+     go to bars more than once a month and are under the age of 30 OR
+     go to cheap restaurants more than 4 times a month and income is less than 50K.
+###### Analysis-Findings
+ ![image](https://github.com/user-attachments/assets/c6974b73-6165-4315-abc2-0e29eb4c234e)
+###### Graphical Representation 
+  ![image](https://github.com/user-attachments/assets/3a51076b-cb3d-4ebb-8ed9-80e3153416dd)
+  ![image](https://github.com/user-attachments/assets/3617e7b2-b209-4b89-94ed-c75e6083188d)
+  ![image](https://github.com/user-attachments/assets/0e97122f-e52b-41f1-9be0-d1d7c137d6a9)
+  
+### Hypothesis 
+  1. passenger with friends who are aged 21 has acceptance rate of 80% but the count is vey less so it has to be ignored
+  2. passenger with the age below 21 does not go to the bar that often
+  3. passenger with age of 26 has good acceptance rate with all 3 (travelling with friends , partner or alone)
+  4. passenger who are travelling alone go to the cheaper resturant more often and the acceptance ratio is 78% for the age of 21 and they have gone to restutnat many times.
+     
 ## Results / Observation
+   1. Passenger with age of 26 has good acceptance rate with all 3 (travelling with friends , partner or alone)
+   2. passenger who are travelling alone go to the cheaper resturant for the age of 21.
+   3. Passengers with the age group of 50 pLus has a 45% acceptance 
+  
