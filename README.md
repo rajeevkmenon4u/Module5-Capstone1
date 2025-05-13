@@ -173,5 +173,22 @@ This is the first Practical Project Part of AI &amp; ML Course
 ## Results / Observation
    1. Passenger with age of 26 has good acceptance rate with all 3 (travelling with friends , partner or alone)
    2. passenger who are travelling alone go to the cheaper resturant for the age of 21.
-   3. Passengers with the age group of 50 pLus has a 45% acceptance 
-  
+   3. Passengers with the age group of 50 pLus has a 45% acceptance
+      
+# 7. Analysis the acceptance rate of Carryout & Takeaway
+###### Analysis-Findings
+![image](https://github.com/user-attachments/assets/253a6919-9dab-43b8-a87e-efc110928086)
+###### Graphical Representation 
+![image](https://github.com/user-attachments/assets/f7793a4e-3e57-447a-b5c0-ca0e07ae94e8)
+![image](https://github.com/user-attachments/assets/4220be50-6387-43dd-86a6-c8522d1fd413)
+
+### Hypothesis 
+ 1. Based on the data you see the acceptance rate for carryout with pasengers travelling alone, or frineds , partner , kids are fairly same
+ 2. But the count when passengers travelling with partner & kids are less than 20 when compared to passengers travelling alone , with friends
+ 3. Hence partner & kids can be ignored
+
+## Results / Observation
+   1. Acceptance rate for Passengers who are 50 plus of age and travelling with friends take carry out (4~8) times with an success rate of 90%
+   2. Acceptance rate for Passengers who are 21 of age and travelling alone take carry out (greater than 8) times with an success rate of 85%
+   3. Acceptance rate for Passengers who are 50 plus of age and travelling with friends take carry out (4~8) times with an success rate of 83%
+   4. Age 21 & 51 plus travelling alone or with friends have good success rate.
