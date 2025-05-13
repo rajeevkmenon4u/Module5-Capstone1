@@ -1,6 +1,6 @@
 # Module5-Capstone1(Will the Customer Accept the Coupon?)
 This is the first Practical Project Part of AI &amp; ML Course
-####### Link to the Project ()
+####### Link to the Project (https://github.com/rajeevkmenon4u/Module5-Capstone1/tree/main)
 ## Brief summary of the data provided
   Imagine driving through town and a coupon is delivered to your cell phone for a restaurant near where you are driving. Would you accept that coupon and take a short detour to the restaurant? Would you accept the 
   coupon but use it on a subsequent trip? Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaurant? What about a coffee house? Would you accept a bar coupon with a minor 
